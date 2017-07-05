@@ -18,7 +18,7 @@ author: YSL
 
 
 
-## fisher and Yates 的原始版
+## yishilin and Yates 的原始版
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Biologist_and_statistician_Ronald_Fisher.jpg/189px-Biologist_and_statistician_Ronald_Fisher.jpg)
 
