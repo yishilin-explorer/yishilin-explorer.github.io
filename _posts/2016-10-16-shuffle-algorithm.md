@@ -3,7 +3,7 @@ layout: post
 title:  "Fisher–Yates shuffle 洗牌算法"
 categories: JavaScript
 tags:  算法 shuffle 乱序 洗牌
-author: YSL
+author: ==YSL==
 ---
 
 * content
@@ -45,6 +45,7 @@ for i from n−1 downto 1 do
      exchange a[j] and a[i]
 ```
 
+#  大例子
 ## 例子
 
 ### 迭代步骤演示
